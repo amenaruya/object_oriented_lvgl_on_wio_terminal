@@ -1,5 +1,3 @@
-// #include "LvglArduinoAbstractLayer.hpp"
-
 template<class T>
 T* LAAL<T>::__smpLaalSingleton = nullptr;
 template<class T>
