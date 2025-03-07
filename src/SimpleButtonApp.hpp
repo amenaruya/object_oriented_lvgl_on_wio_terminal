@@ -38,7 +38,7 @@ private:
     /* constructor */
     App();
     /* destructor */
-    virtual ~App();
+    ~App();
 
 public:
     /* 初期化 */
